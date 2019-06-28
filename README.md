@@ -1,2 +1,2 @@
 # 前端学习笔记
-[我的博客](http://blog.csdn.net/guodongxiaren)  
+* [预习课](http://blog.csdn.net/guodongxiaren)  
